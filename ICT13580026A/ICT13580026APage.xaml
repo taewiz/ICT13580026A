@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ICT13580026A"
+    x:Class="ICT13580026A.ICT13580026APage"
+    Title="Taewiz Page"
+    BackgroundColor="#FFFFCC">
+    <ScrollView>
+        <StackLayout
+            BackgroundColor="#ccffff"
+            Padding="30">
+            <Image
+                Source="download.jpeg"
+                HeightRequest="120" />
+            <Label
+                Text="Hello world Hello world Hello world Hello world Hello world Hello world "
+                BackgroundColor="White"
+                LineBreakMode="MiddleTruncation"
+                x:Name="Hello"
+                Margin="20" />
+            <Label
+                Text="Taew"
+                BackgroundColor="#FFCCCC"
+                TextColor="White"
+                x:Name="firstNameLabel" />
+            <Entry
+                Placeholder="Name"
+                Keyboard="Text"
+                x:Name="lastNameEntry" />
+            <Button
+                Text="OK"
+                BackgroundColor="#FFCC99"
+                x:Name="okButton" />
+            <DatePicker />
+            <TimePicker />
+            <Picker
+                x:Name="genderPicker"
+                Title="Gender" />
+            <WebView
+                Source="https://www.facebook.com"
+                HeightRequest="45" />
+            <Label
+                x:Name="valueLabel" />
+            <Slider
+                Maximum="100"
+                Minimum="0"
+                Value="50"
+                x:Name="mySlider" />
+            <Stepper
+                Maximum="10"
+                Minimum="0"
+                Increment="1"
+                x:Name="myStepper" />
+            <Switch
+                IsToggled="true" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

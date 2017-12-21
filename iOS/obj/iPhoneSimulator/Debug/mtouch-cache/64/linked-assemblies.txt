@@ -1,0 +1,15 @@
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/ICT13580026A.iOS.exe
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Mono.Security.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.Xml.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.Core.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Xamarin.Forms.Platform.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/ICT13580026A.dll
+/Users/su_12/Projects/ICT13580026A/iOS/bin/iPhoneSimulator/Debug/ICT13580026A.iOS.app:/Users/su_12/Projects/ICT13580026A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/64/Link/Xamarin.Forms.Xaml.dll
